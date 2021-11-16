@@ -1,24 +1,3 @@
-# vue-form
+# VueJS 초급 학습 내용으로 만들어보는 form 프로젝트
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+출처: https://www.inflearn.com/course/Age-of-Vuejs/dashboard
